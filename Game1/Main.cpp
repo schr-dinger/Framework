@@ -5,7 +5,7 @@
 void Main::Init()
 {
 	//rc.SetWorldPos(Vector2(400.0f, 300.0f));
-	rc.scale = Vector2(100.0f, 100.0f);
+	rc.scale = Vector2(300.0f, 300.0f);
 	rc.isAxis = true;
 	rc.isFilled = false;
 	//rc.isVisible = false;
